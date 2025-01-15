@@ -5,7 +5,9 @@
 Je suis ingénieur logiciel diplômé de l'ISEN yncrea méditerranée.
 
 
-## 🛠 Skills
+## 🛠 Compétences
+
+### Techniques
 
 - HTML
 - CSS
@@ -16,11 +18,19 @@ Je suis ingénieur logiciel diplômé de l'ISEN yncrea méditerranée.
 - Laravel (Filament, Breeze)
 - Programmation en langage C
 
-## 🔗 Links
+### Humaines
+
+- Gestion de projets
+- Travail collaboratif
+- Autonomie
+- Recherche et développement
+- Prise de parole en public
+
+## 🔗 Liens
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-clementfavarel.vercel.app/)
 
-## Other Common Github Profile Sections
+## Actualités
 
 👩‍💻 En ce moment, je travaille sur une application de management de projets 
 
