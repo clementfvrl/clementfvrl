@@ -11,12 +11,14 @@ Je suis ingénieur logiciel diplômé de l'ISEN yncrea méditerranée.
 
 - HTML
 - CSS
-- Javascript
+- Javascript / NodeJS
 - PHP
-- SQL (MySQL, MariaDB, SQLite)
+- SQL (MySQL, MariaDB, SQLite) + Modélisation / Conception
 - Applications TALL stack (Tailwind, Alpine, Livewire, Laravel)
 - Laravel (Filament, Breeze)
 - Programmation en langage C
+- Linux (Ubuntu, Fedora, Bash)
+- Docker / Docker Compose / Podman
 
 ### Humaines
 
