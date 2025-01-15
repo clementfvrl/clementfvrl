@@ -1,16 +1,27 @@
-## Hi there 👋
+# Salut, moi c'est Clément ! 👋
 
-<!--
-**clementfvrl/clementfvrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 A propos de moi
 
-Here are some ideas to get you started:
+Je suis ingénieur logiciel diplômé de l'ISEN yncrea méditerranée.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠 Skills
+
+- HTML
+- CSS
+- Javascript
+- PHP
+- SQL (MySQL, MariaDB, SQLite)
+- Applications TALL stack (Tailwind, Alpine, Livewire, Laravel)
+- Laravel (Filament, Breeze)
+- Programmation en langage C
+
+## 🔗 Links
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-clementfavarel.vercel.app/)
+
+## Other Common Github Profile Sections
+
+👩‍💻 En ce moment, je travaille sur une application de management de projets 
+
+🧠 J'essaie d'apprendre le langage C
